@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @magzkc
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on blockchain programming
+- 💞️ I’m looking to collaborate on coding for blockchains
 - 📫 How to reach me ...
 
 <!---
